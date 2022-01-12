@@ -18,13 +18,10 @@
               ipython
               ipywidgets
               pandas
-              tabulate
-              qtconsole
+              numpy
+              matplotlib
             ]))
           ];
         };
       });
-
-  # use latexmk -pdf -pvc main.tex for constant updates
-  # use latexindent -m -l indentconfig.yaml for formatting
 }
