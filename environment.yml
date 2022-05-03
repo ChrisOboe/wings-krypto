@@ -1,0 +1,9 @@
+name: wings-krypto
+channels:
+    - conda-forge
+dependencies:
+    - ipywidgets
+    - ipysheets
+    - sympy
+    - pandas
+    - matplotlib
